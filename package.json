@@ -1,0 +1,22 @@
+{
+  "name": "mqtt-server-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dequeue": "^1.0.5",
+    "express": "^4.16.4",
+    "locutus": "^2.0.10",
+    "lodash": "^4.17.11",
+    "log-timestamp": "^0.2.1",
+    "mosca": "^2.8.3",
+    "q": "^1.5.1"
+  }
+}
